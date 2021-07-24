@@ -1,5 +1,5 @@
 # Cryptocurrencies
-Unsupervised Machine Learning
+Unsupervised Machine Learning of Cryptocurrencies
 
 ## Purpose
 The overall purpose of this project was to look at data about Cryptocurrencies and use unsupervised machine learning techniques to determine whether or not we could determine if there was a good way to invest based on the data at hand. To do this, we used Scikit-learn and KMeans to create clusters and then plot the results to come up with the findings.
